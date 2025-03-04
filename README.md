@@ -11,14 +11,16 @@ We apply:
 
  - STL decomposition with a random walk forecast
 
+---
 
-
-📊 Data Source
+## 📊 Data Source
 
 We use FRED API to retrieve the Labor Force Participation Rate (LNU01375379) from 2010 to the present.
 
 
-🛠️ Methods Used
+---
+
+## 🛠️ Methods Used
 
 ACF & PACF → Identifies trend and seasonality.
 
